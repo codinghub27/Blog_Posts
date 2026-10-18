@@ -358,6 +358,8 @@ The app runs on any platform that supports a `Procfile` (Render, Heroku, Railway
 
 ## 🙌 Author
 
-**Sravan** ([@codinghub27](https://github.com/codinghub27))
+**N Sravan Kumar** ([@codinghub27](https://github.com/codinghub27)), final-year B.Tech in Artificial Intelligence & Data Science, Swarnandhra College of Engineering and Technology, Narsapur
+
+[Portfolio](https://sravan-kumar-portfolio-umber.vercel.app/) · [LinkedIn](https://in.linkedin.com/in/sravan-n-1a32943aa) · [Email](mailto:sravannkumard@gmail.com)
 
 Built to practice full-stack Flask: authentication, relational databases, rich-text content and role-based access.
