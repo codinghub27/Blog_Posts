@@ -363,3 +363,9 @@ The app runs on any platform that supports a `Procfile` (Render, Heroku, Railway
 [Portfolio](https://sravan-kumar-portfolio-umber.vercel.app/) · [LinkedIn](https://in.linkedin.com/in/sravan-n-1a32943aa) · [Email](mailto:sravannkumard@gmail.com)
 
 Built to practice full-stack Flask: authentication, relational databases, rich-text content and role-based access.
+
+---
+
+## 📜 License
+
+Released under the [MIT License](LICENSE).
